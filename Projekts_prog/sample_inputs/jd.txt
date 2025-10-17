@@ -1,0 +1,21 @@
+Pozīcija: Python izstrādātājs
+
+Darba pienākumi:
+- Izstrādāt un uzturēt Python lietotnes
+- Rakstīt efektīvu un tīru kodu, sekojot labākajām praksēm
+- Veikt vienību testēšanu un koda pārbaudes
+- Sadarboties ar komandu, lai izstrādātu risinājumus
+
+Prasības:
+- Spēcīgas Python programmēšanas prasmes
+- Pieredze ar Django vai Flask ietvariem
+- Zināšanas par datubāzēm (SQL, NoSQL)
+- Spēja strādāt komandā un efektīvi komunicēt
+- Prasme analizēt un risināt problēmas
+
+
+
+
+
+
+

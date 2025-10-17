@@ -1,0 +1,10 @@
+Vārds: Anna Bērziņa
+Amats: Python izstrādātāja
+
+Pieredze:
+- 3 gadi Python izstrādē, galvenokārt Django projektos
+- Izstrādājusi un uzturējusi vairākas tīmekļa lietotnes
+- Veikusi vienību testēšanu un koda pārbaudes
+- Pieredze darbā ar PostgreSQL un MongoDB
+- Sadarbība komandā, Agile metodoloģija
+- Risinājusi dažādas programmēšanas problēmas un optimizējusi kodu

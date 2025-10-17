@@ -1,0 +1,9 @@
+Vārds: Jānis Kalniņš
+Amats: Programmētājs
+
+Pieredze:
+- 2 gadi pieredze Python izstrādē, galvenokārt mazos personīgos projektos
+- Zina Flask, bet bez pieredzes Django
+- Strādājis ar MySQL, bet maz pieredzes ar NoSQL
+- Dažreiz veic koda pārbaudes, bet bez vienību testēšanas
+- Darbs komandā pārsvarā individuāli

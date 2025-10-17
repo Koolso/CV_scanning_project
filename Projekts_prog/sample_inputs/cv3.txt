@@ -1,0 +1,10 @@
+Vārds: Ilze Ozola
+Amats: Java izstrādātāja
+
+Pieredze:
+- 5 gadi Java izstrādē
+- Strādājusi ar Spring Boot projektiem
+- Pieredze ar Oracle SQL datubāzēm
+- Vienību testēšanu neveic regulāri
+- Komandas darbs ierobežots, vairāk individuāli
+- Nav Python pieredzes

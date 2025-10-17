@@ -1,0 +1,14 @@
+{
+    "match_score": 5,
+    "summary": "Kandidāta CV norāda uz ievērojamu pieredzi Java izstrādē, taču tam pilnībā trūkst galveno Python programmēšanas prasmju un ietvaru (Django/Flask) pieredzes, kas ir būtiskas šai pozīcijai. Lai gan ir pieredze ar SQL datubāzēm, citas svarīgas prasības, piemēram, regulāra vienību testēšana un spēcīgas komandas darba iemaņas, nav pietiekami izpildītas.",
+    "strengths": [
+        "Pieredze ar SQL datubāzēm"
+    ],
+    "missing_requirements": [
+        "Spēcīgas Python programmēšanas prasmes",
+        "Pieredze ar Django vai Flask ietvariem",
+        "Regulāra vienību testēšana un koda pārbaudes",
+        "Spēja strādāt komandā un efektīvi komunicēt"
+    ],
+    "verdict": "not a match"
+}
